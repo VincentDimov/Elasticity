@@ -10,15 +10,25 @@ Please help!
 You can find a sample dataset in this repository, based on a real sales.
 Similar to typical time serie aktie data, but with both price value and demand values.
 The set of independent variables will be regressed to see if they causes effect on the demand variable. 
+
 It is a monthly data from 2013-2020 which have 96 observations.
+
 date -> monthly sequence from 2013-2020
+
 dem -> the avarage quantity of mWh that was sold
+
 price -> the avarage price of mWh
+
 pop -> population
+
 gdpc -> avarage income per capita
+
 temp -> avarage temperature
+
 exchange -> avarage import/export in kWh 
+
 sekeur -> exchange rates between SEK and EUR
+
 season -> is a seasonal dummyvariable which has value 1 if it's October - March, otherwise 0
 
 ## Overview
