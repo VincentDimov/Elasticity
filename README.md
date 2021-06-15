@@ -1,5 +1,6 @@
 # Elasticity
 Spotprice elasticity of electricity demand and factors that can influence the electricity demand.
+
 Please help!
 
 ## Goals
