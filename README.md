@@ -35,8 +35,9 @@ season -> is a seasonal dummyvariable which has value 1 if it's October - March,
 ## Overview
 The main aim of the pricing studies is to learn about past impact of the price on sales and try to adjust future actions.  The consumer's sensitivity to price changes can be measured by the coefficient of price elasticity. Elasticity measures how much the quantity demanded for one good will fall if the price for one good will increase by 1% and the change in the price and quantity will measure the elasticity.
 
-For our regression case it will be calculated using following formula formula:
+Elasticity can be calculated using following formula formula:
 #### PE = (ΔQ/ΔP) * (P/Q)  
 
-Where (ΔQ/ΔP) is determined by regression coefficient and P and Q will be our mean Price and mean Sales.
+Where (ΔQ/ΔP) is determined by regression coefficient $$ beta-1 $$ and P and Q will be our mean Price and mean Sales.
+
 
