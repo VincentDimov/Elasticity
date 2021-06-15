@@ -38,6 +38,6 @@ The main aim of the pricing studies is to learn about past impact of the price o
 Elasticity can be calculated using following formula formula:
 #### PE = (ΔQ/ΔP) * (P/Q)  
 
-Where (ΔQ/ΔP) is determined by regression coefficient $$ beta-1 $$ and P and Q will be our mean Price and mean Sales.
+Where (ΔQ/ΔP) is determined by regression coefficient $$ \beta_1\ $$ and P and Q will be our mean Price and mean Sales.
 
 
